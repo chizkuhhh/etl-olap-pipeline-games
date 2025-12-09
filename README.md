@@ -22,3 +22,6 @@ Implemented using Python + SQL:
 - Python, Pandas
 - MySQL, MongoDB, CSVs
 - Jupyter Notebook
+
+# Data Warehouse
+Data warehouse content is accessible [here](https://drive.google.com/file/d/1ihiW0K-nvbMt-auuJUr6d665xYwgG957/view?usp=sharing).
